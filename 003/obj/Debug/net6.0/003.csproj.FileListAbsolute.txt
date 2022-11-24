@@ -1,0 +1,15 @@
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar4\003\obj\Debug\net6.0\003.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar4\003\obj\Debug\net6.0\003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar4\003\obj\Debug\net6.0\003.AssemblyInfoInputs.cache
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar4\003\obj\Debug\net6.0\003.AssemblyInfo.cs
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar4\003\obj\Debug\net6.0\003.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar4\003\bin\Debug\net6.0\003.exe
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar4\003\bin\Debug\net6.0\003.deps.json
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar4\003\bin\Debug\net6.0\003.runtimeconfig.json
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar4\003\bin\Debug\net6.0\003.dll
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar4\003\bin\Debug\net6.0\003.pdb
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar4\003\obj\Debug\net6.0\003.dll
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar4\003\obj\Debug\net6.0\refint\003.dll
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar4\003\obj\Debug\net6.0\003.pdb
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar4\003\obj\Debug\net6.0\003.genruntimeconfig.cache
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar4\003\obj\Debug\net6.0\ref\003.dll
